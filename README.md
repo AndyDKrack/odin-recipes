@@ -12,5 +12,6 @@ Skills to be demonstrated are;
 		<a> tag
 		<em> tag
 		<strong> tag
-		<meta> tag e.t.c
+		<meta> tag
+		<img> tag e.t.c
 
