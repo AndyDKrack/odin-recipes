@@ -1,0 +1,31 @@
+* {
+    border: 1px solid rgb(209, 206, 206);
+    padding: 3px;
+    font-size: 16px;
+    margin-left: 20px;
+    background-color: rgb(209, 206, 206);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 70%;
+    height: auto;
+}
+
+.heading {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(69, 69, 151);
+}
+
+#head {
+    color: rgb(69, 69, 151);
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    font-style: normal;
+    color: black;
+    font-size: ;
+}
